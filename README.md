@@ -1,4 +1,4 @@
-# The main code of the MCH
+%%% The main code of the MCH
 Paper : Deep-Like Hashing-in-Hash for Visual Retrieval: An Embarrassingly Simple Method
 
 Author : Lei Zhang, Ji Liu, Fuxiang Huang, Yang Yang and David Zhang
