@@ -16,10 +16,17 @@ Cite: If you find this code useful in your research then please cite
 
 
 @articale{MCH2020,
+
   author={Zhang, Lei and Liu, Ji and Huang, Fuxiang and Yang, Yang and Zhang, David},
+  
   journal={IEEE Transactions on Image Processing}, 
+  
   title={Deep-Like Hashing-in-Hash for Visual Retrieval: An Embarrassingly Simple Method}, 
+  
   year={2020},
+  
   volume={29},
+  
   pages={8149-8162},
+  
   doi={10.1109/TIP.2020.3011796}}
