@@ -1,4 +1,4 @@
-%%% The main code of the MCH
+###MCH
 
 Paper : Deep-Like Hashing-in-Hash for Visual Retrieval: An Embarrassingly Simple Method
 
@@ -11,7 +11,7 @@ Contact : huangfuxiang@cqu.edu.cn; leizhang@cqu.edu.cn
 
 Usage:  MATLAB R2017
 
-Running Models:  Run demo.m
+Running Models:  Run demo.m (Before you can run the code, you need to download the dataset and save it to the folder.)
 
 Cite: If you find this code useful in your research then please cite
 
