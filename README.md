@@ -1,6 +1,4 @@
-###MCH
-
-Paper : Deep-Like Hashing-in-Hash for Visual Retrieval: An Embarrassingly Simple Method
+#[TIP 2020] MCH: Deep-Like Hashing-in-Hash for Visual Retrieval: An Embarrassingly Simple Method
 
 Author : Lei Zhang, Ji Liu, Fuxiang Huang, Yang Yang and David Zhang
 
